@@ -10,6 +10,10 @@ The project resembles a simplified industrial measurement and quality control wo
 
 ---
 
+## Screenshot
+
+![Industrial Measurement Demo UI](docs/screenshot.png)
+
 ## System Architecture
 
 The solution follows separation of concerns and clean layering principles.
