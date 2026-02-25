@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IMD.Core/IMD.Core.csproj" />
+  <Project Path="IMD.DeviceSimulator/IMD.DeviceSimulator.csproj" />
+  <Project Path="IMD.Infrastructure/IMD.Infrastructure.csproj" />
+  <Project Path="IMD.NativeCalibration/IMD.NativeCalibration.vcxproj" Id="7da0d0eb-35ee-47b6-b8e9-33d6364001b8" />
+  <Project Path="IMD.Tests/IMD.Tests.csproj" />
+  <Project Path="IMD.UI/IMD.UI.csproj" />
+</Solution>
