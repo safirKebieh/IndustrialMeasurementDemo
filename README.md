@@ -120,6 +120,8 @@ This endpoint represents the communication boundary between the measurement devi
 4. Use the UI to connect to the simulated device (default endpoint: `localhost:9000`).  
 5. Observe real-time measurements and background database persistence.  
 
+Alternatively, extract the release package and run `start-demo.bat`
+to automatically start both applications.
 ---
 
 ## Design Considerations
