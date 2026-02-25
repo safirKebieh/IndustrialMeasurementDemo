@@ -12,7 +12,7 @@ The project resembles a simplified industrial measurement and quality control wo
 
 ## Screenshot
 
-![Industrial Measurement Demo UI](docs/screenshot.png)
+![Industrial Measurement Demo UI](docs/Screenshot.png)
 
 ## System Architecture
 
